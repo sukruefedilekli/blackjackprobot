@@ -15,3 +15,5 @@ Son olarak, bot.onText() fonksiyonu, kullanıcının "/stand" komutunu gönderme
 
 Bu kod, bir Telegram botu kullanarak Blackjack oynamak isteyenler için temel bir şablon sunar ve oyun mekaniğini içeren bir örnek sağlar. Ancak, gerçek bir kumar oyunu olduğundan, yasal ve etik sınırların göz önünde bulundurulması önemlidir.
 
+# 💬Contact Me
+Telegram • https://t.me/sukruefedilekli
